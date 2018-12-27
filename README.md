@@ -8,6 +8,10 @@ Git Training Project (GTP) collection of various examples to show different part
 
 ## Purpose
 
+The purpose of this project is for the author to hone their Git skill set.
+
 ## Deployment
+
+Deployment can be on any web server or local file system.
 
 ## How To Contribute 
