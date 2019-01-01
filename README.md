@@ -15,3 +15,7 @@ The purpose of this project is for the author to hone their Git skill set.
 Deployment can be on any web server or local file system.
 
 ## How To Contribute 
+
+### Copyright
+
+2019 Git Training V2
