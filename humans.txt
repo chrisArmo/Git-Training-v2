@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Chris Armo -- Full Stack Dev -- @Armo_Chris
 
 # THANKS
 
