@@ -16,6 +16,8 @@ Deployment can be on any web server or local file system.
 
 ## How To Contribute 
 
+Please fork this repository and then issue pull request to begin.
+
 ### Copyright
 
 2019 Git Training V2
