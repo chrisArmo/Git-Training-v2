@@ -16,7 +16,7 @@ Deployment can be on any web server or local file system.
 
 ## How To Contribute 
 
-Please fork this repository and then issue pull request to begin.
+Please fork this repository and then issue pull request to begin. Then practice those awesome Git skills.
 
 ### Copyright
 
