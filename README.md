@@ -20,4 +20,4 @@ Please fork this repository and then issue pull request to begin. Then practice 
 
 ### Copyright
 
-2019 Git Training V2
+2019 Git Training V2 - All Rights Reserved
