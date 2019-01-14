@@ -8,6 +8,7 @@
 # THANKS
 
     Thank you to all my instructors, teachers and mentors, I am where I am today because of you.
+    I'm very much indebted to all the amazing developers who have taught me an helped me along the way.
 
 # TECHNOLOGY COLOPHON
 
