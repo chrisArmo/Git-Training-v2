@@ -12,7 +12,7 @@ The purpose of this project is for the author to hone their Git skill set.
 
 ## Deployment
 
-Deployment can be on any web server or local file system.
+Deployment can be on any web server or local file system. You don't need internet to practice learning Git version control, unless it is necessary to push work up to Github.
 
 ## How To Contribute 
 
